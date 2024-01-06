@@ -1,0 +1,31 @@
+.title{
+    font-size: 5rem;
+}
+
+
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-fluid{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    background: gray;
+    padding: auto;
+
+}
+.d-flex-nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.style{
+    width: auto;
+    height: auto;
+}

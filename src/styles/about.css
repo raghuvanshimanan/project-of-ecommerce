@@ -1,0 +1,12 @@
+.title {
+    font-size: 1rem;
+}
+.layout{
+    width: 100%;
+    flex-shrink: 0;
+    padding: 1rem 8rem;
+
+}
+.style{
+    background: rgba(red, green, blue, alpha);
+}
